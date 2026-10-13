@@ -1,0 +1,10 @@
+.individual-assets {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  font-family: Arial, sans-serif;
+}
+
+.individual-assets h2 {
+  margin-bottom: 0.75rem;
+}

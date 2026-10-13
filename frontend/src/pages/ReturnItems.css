@@ -1,0 +1,10 @@
+.return-items {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  font-family: Arial, sans-serif;
+}
+
+.return-items h2 {
+  margin-bottom: 0.75rem;
+}

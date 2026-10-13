@@ -1,0 +1,26 @@
+/* Dashboard styling */
+.dashboard {
+  padding: 2rem;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, #f0f4ff, #e6e9ff);
+}
+.dashboard h2 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.card {
+  flex: 1 1 200px;
+  background: rgba(255,255,255,0.8);
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  text-align: center;
+}
+.error {
+  color: #e74c3c;
+}
